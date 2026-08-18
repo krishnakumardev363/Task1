@@ -1,0 +1,15 @@
+# Product Catalog Improvements
+
+- [x] Add a search input above the product catalog and filter models by name, category, tagline, and feature text.
+- [x] Add dedicated category routes/pages for iPhones, iPads, Macs, and AirPods.
+- [x] Add dedicated product detail routes/pages for every catalog model with image, description, features, price, and related products.
+- [x] Update product cards to prevent text overlap with images and maintain consistent responsive sizing.
+- [x] Verify search, category navigation, product detail links, responsive layouts, and hosted preview behavior.
+- [x] Add persistent client-side cart state with add, remove, quantity, and subtotal behavior.
+- [x] Add a checkout page with form validation and order-summary feedback.
+- [x] Add cart links and purchase actions to product cards and detail pages.
+- [x] Verify the cart and checkout flow in the live browser preview.
+
+- [ ] Prepare the permanent project for export to the provided GitHub repository.
+- [ ] Push the current project to the requested GitHub remote.
+- [ ] Verify the remote branch and commit after pushing.
