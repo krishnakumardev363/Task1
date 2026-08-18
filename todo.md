@@ -13,9 +13,12 @@
 - [ ] Prepare the permanent project for export to the provided GitHub repository.
 - [ ] Push the current project to the requested GitHub remote.
 - [x] Verify the remote branch and commit after pushing.
-- [ ] Add a GitHub Pages deployment workflow for the static website.
-- [ ] Trigger and monitor the GitHub Pages deployment.
-- [ ] Verify and report the live GitHub Pages URL.
-- [ ] Replace root-absolute CSS and JavaScript paths with project-relative paths.
-- [ ] Bundle product SVG assets locally for GitHub Pages.
-- [ ] Redeploy and verify mobile layout and product images.
+- [x] Add a GitHub Pages deployment workflow for the static website.
+- [x] Trigger and monitor the GitHub Pages deployment.
+- [x] Verify and report the live GitHub Pages URL.
+- [x] Replace root-absolute CSS and JavaScript paths with project-relative paths.
+- [x] Bundle product SVG assets locally for GitHub Pages.
+- [x] Redeploy and verify mobile layout and product images.
+- [ ] Fix broken product image URLs on GitHub Pages.
+- [ ] Keep the mobile menu closed on cart and checkout pages unless explicitly opened.
+- [ ] Redeploy and verify product images and mobile cart/checkout layouts.
