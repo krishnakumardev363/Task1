@@ -16,3 +16,6 @@
 - [ ] Add a GitHub Pages deployment workflow for the static website.
 - [ ] Trigger and monitor the GitHub Pages deployment.
 - [ ] Verify and report the live GitHub Pages URL.
+- [ ] Replace root-absolute CSS and JavaScript paths with project-relative paths.
+- [ ] Bundle product SVG assets locally for GitHub Pages.
+- [ ] Redeploy and verify mobile layout and product images.
