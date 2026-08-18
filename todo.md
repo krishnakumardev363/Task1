@@ -19,6 +19,10 @@
 - [x] Replace root-absolute CSS and JavaScript paths with project-relative paths.
 - [x] Bundle product SVG assets locally for GitHub Pages.
 - [x] Redeploy and verify mobile layout and product images.
-- [ ] Fix broken product image URLs on GitHub Pages.
-- [ ] Keep the mobile menu closed on cart and checkout pages unless explicitly opened.
-- [ ] Redeploy and verify product images and mobile cart/checkout layouts.
+- [x] Fix broken product image URLs on GitHub Pages.
+- [x] Keep the mobile menu closed on cart and checkout pages unless explicitly opened.
+- [x] Redeploy and verify product images and mobile cart/checkout layouts.
+- [ ] Replace concept visuals with safe official-style or licensed product assets for iPhone, Mac, AirPods, and Watch.
+- [ ] Increase and polish the cart icon at the top of the site.
+- [ ] Fix product-card spacing, typography, and responsive text wrapping.
+- [ ] Redeploy and verify product visuals, cart navigation, and card layout.
