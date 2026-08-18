@@ -12,4 +12,7 @@
 
 - [ ] Prepare the permanent project for export to the provided GitHub repository.
 - [ ] Push the current project to the requested GitHub remote.
-- [ ] Verify the remote branch and commit after pushing.
+- [x] Verify the remote branch and commit after pushing.
+- [ ] Add a GitHub Pages deployment workflow for the static website.
+- [ ] Trigger and monitor the GitHub Pages deployment.
+- [ ] Verify and report the live GitHub Pages URL.
