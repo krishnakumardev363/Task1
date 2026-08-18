@@ -43,8 +43,9 @@ const catalog = [
 ];
 
 const categoryLabels = {iphone:'iPhone', ipad:'iPad', mac:'Mac', airpods:'AirPods'};
+const officialCardImages = {iphone:'assets/official/iphone-official.png', ipad:'assets/official/ipad-official.jpg', mac:'assets/official/mac-official.jpg', airpods:'assets/official/airpods-official.jpg'};
 const productData = Object.fromEntries(catalog.map(([id,name,category,price,tagline,features]) => [id, {
-  id,name,category,price,tagline,features,image:assetMap[id],description:tagline+'. '+features,  specs:{Category:categoryLabels[category],Highlights:features,Concept:'Original educational visual'}
+  id,name,category,price,tagline,features,image:officialCardImages[category],description:tagline+'. '+features,  specs:{Category:categoryLabels[category],Highlights:features,Concept:'Apple product visual'}
 }]));
 
 
